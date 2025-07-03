@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="[https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zsggc&psig=AOvVaw0Bj2KHLd6013s2QiLwVkQ8&ust=1751642269208000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDt24n-oI4DFQAAAAAdAAAAABAE)" align="center" width="30%">
+    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg(https://ibb.co/0RMFmHcZ)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zsggc&psig=AOvVaw0Bj2KHLd6013s2QiLwVkQ8&ust=1751642269208000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDt24n-oI4DFQAAAAAdAAAAABAE)" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">GROUP-CHAT-WEB-APPLICATION</h1></p>
 <p align="center">
