@@ -1,12 +1,9 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg(https://ibb.co/0RMFmHcZ)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zsggc&psig=AOvVaw0Bj2KHLd6013s2QiLwVkQ8&ust=1751642269208000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDt24n-oI4DFQAAAAAdAAAAABAE)" align="center" width="30%">
+    <img src="[https://i.ibb.co/0RMFmHc/Z](https://ibb.co/0RMFmHcZ).png" width="30%">
 </p>
 <p align="center"><h1 align="center">GROUP-CHAT-WEB-APPLICATION</h1></p>
+
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
-	<img src="https://img.shields.io/github/license/luffyd7932/Group-Chat-Web-Application?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/luffyd7932/Group-Chat-Web-Application?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/luffyd7932/Group-Chat-Web-Application?style=default&color=0080ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/luffyd7932/Group-Chat-Web-Application?style=default&color=0080ff" alt="repo-language-count">
@@ -23,28 +20,30 @@
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
 - [📁 Project Structure](#-project-structure)
-  - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
   - [☑️ Prerequisites](#-prerequisites)
   - [⚙️ Installation](#-installation)
   - [🤖 Usage](#🤖-usage)
-  - [🧪 Testing](#🧪-testing)
-- [📌 Project Roadmap](#-project-roadmap)
+  - [🧪 Access](#🧪-testing)
 - [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
-- [🙌 Acknowledgments](#-acknowledgments)
+- [🎗 Author](#-license)
 
 ---
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+The Group Chat Web Application is a real-time messaging platform designed to facilitate seamless communication among multiple users in group chat rooms. Built with Spring Boot and leveraging WebSockets, this application delivers instant message delivery and a responsive user experience. Its lightweight architecture makes it easy to deploy and extend, making it an ideal starting point for learning about real-time web technologies or building more advanced chat solutions.
+Whether you’re looking to connect with friends, collaborate with colleagues, or explore the fundamentals of WebSocket-based communication, this project provides a robust foundation with clean, modern code and a straightforward setup process.
 
 ---
 
 ## 👾 Features
+Real-time messaging with WebSockets
 
-<code>❯ REPLACE-ME</code>
+Simple and lightweight Spring Boot implementation
+
+Easy to set up and run locally
+
 
 ---
 
@@ -61,125 +60,6 @@
         └── test
 ```
 
-
-### 📂 Project Index
-<details open>
-	<summary><b><code>GROUP-CHAT-WEB-APPLICATION/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			<tr>
-				<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/mvnw'>mvnw</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			<tr>
-				<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/mvnw.cmd'>mvnw.cmd</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
-			</tr>
-			</table>
-		</blockquote>
-	</details>
-	<details> <!-- src Submodule -->
-		<summary><b>src</b></summary>
-		<blockquote>
-			<details>
-				<summary><b>main</b></summary>
-				<blockquote>
-					<details>
-						<summary><b>java</b></summary>
-						<blockquote>
-							<details>
-								<summary><b>com</b></summary>
-								<blockquote>
-									<details>
-										<summary><b>backend</b></summary>
-										<blockquote>
-											<details>
-												<summary><b>chatApplicationV2</b></summary>
-												<blockquote>
-													<table>
-													<tr>
-														<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/main/java/com/backend/chatApplicationV2/WebSocketEventListener.java'>WebSocketEventListener.java</a></b></td>
-														<td><code>❯ REPLACE-ME</code></td>
-													</tr>
-													<tr>
-														<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/main/java/com/backend/chatApplicationV2/WebSocketConfig.java'>WebSocketConfig.java</a></b></td>
-														<td><code>❯ REPLACE-ME</code></td>
-													</tr>
-													<tr>
-														<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/main/java/com/backend/chatApplicationV2/ChatApplicationV2Application.java'>ChatApplicationV2Application.java</a></b></td>
-														<td><code>❯ REPLACE-ME</code></td>
-													</tr>
-													</table>
-													<details>
-														<summary><b>model</b></summary>
-														<blockquote>
-															<table>
-															<tr>
-																<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/main/java/com/backend/chatApplicationV2/model/ChatMessagePojo.java'>ChatMessagePojo.java</a></b></td>
-																<td><code>❯ REPLACE-ME</code></td>
-															</tr>
-															</table>
-														</blockquote>
-													</details>
-													<details>
-														<summary><b>controller</b></summary>
-														<blockquote>
-															<table>
-															<tr>
-																<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/main/java/com/backend/chatApplicationV2/controller/ChatController.java'>ChatController.java</a></b></td>
-																<td><code>❯ REPLACE-ME</code></td>
-															</tr>
-															</table>
-														</blockquote>
-													</details>
-												</blockquote>
-											</details>
-										</blockquote>
-									</details>
-								</blockquote>
-							</details>
-						</blockquote>
-					</details>
-				</blockquote>
-			</details>
-			<details>
-				<summary><b>test</b></summary>
-				<blockquote>
-					<details>
-						<summary><b>java</b></summary>
-						<blockquote>
-							<details>
-								<summary><b>com</b></summary>
-								<blockquote>
-									<details>
-										<summary><b>backend</b></summary>
-										<blockquote>
-											<details>
-												<summary><b>chatApplicationV2</b></summary>
-												<blockquote>
-													<table>
-													<tr>
-														<td><b><a href='https://github.com/luffyd7932/Group-Chat-Web-Application/blob/master/src/test/java/com/backend/chatApplicationV2/ChatApplicationV2ApplicationTests.java'>ChatApplicationV2ApplicationTests.java</a></b></td>
-														<td><code>❯ REPLACE-ME</code></td>
-													</tr>
-													</table>
-												</blockquote>
-											</details>
-										</blockquote>
-									</details>
-								</blockquote>
-							</details>
-						</blockquote>
-					</details>
-				</blockquote>
-			</details>
-		</blockquote>
-	</details>
-</details>
-
----
 ## 🚀 Getting Started
 
 ### ☑️ Prerequisites
@@ -206,26 +86,20 @@ Install Group-Chat-Web-Application using one of the following methods:
 ```
 
 3. Install the project dependencies:
-
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-
+```sh
+❯ mvn clean install
+```
 
 ### 🤖 Usage
 Run Group-Chat-Web-Application using the following command:
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### 🧪 Testing
-Run the test suite using the following command:
-echo 'INSERT-TEST-COMMAND-HERE'
-
----
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
+```sh
+ ❯ mvn spring-boot:run
+```
+### 🧪 Access
+Open your browser and go to
+```sh
+❯ http://localhost:8080
+```
 ---
 
 ## 🔰 Contributing
@@ -271,14 +145,6 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ---
 
-## 🎗 License
+### 🎗 Author
+[luffyd7932](https://github.com/luffyd7932)
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
